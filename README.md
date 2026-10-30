@@ -1,4 +1,4 @@
-# System Design Portfolio (Hands-On Implementation)
+# System Design 
 
 A production-grade, zero-external-dependency learning portfolio containing 6 end-to-end system design implementations built with Python and FastAPI. Each project includes complete source code, architectural documentation, capacity estimations, unit/integration test suites, chaos benchmarks, and interactive browser dashboards.
 
